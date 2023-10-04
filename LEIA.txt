@@ -1,0 +1,13 @@
+Aplicação desenvolvida utilizado o framework React.js em conjunto com a biblioteca json-server para simulação de um backend com banco de dados NoSQL.
+
+Também utilizei o Axios para realizar a conexão com o json-server e o bootstrap para agilizar na criação das telas.
+
+Para rodar a aplicação é necessário ter o node instalado no computador, após a instalação do node siga os passos abaixo:
+1- abra o projeto no vscode(ou na IDE de sua preferência)
+2- abra o terminal(CTRL + ') e digite npm i (para que os pacotes utilizados no projeto sejam baixados)
+3- digite npm run all (esse comando irá rodar o vite e o json-server juntos, simulando assim uma aplicação front e back)
+
+Peço desculpas pela demora na entrega do teste, logo após eu abrir o teste técnico no google forms minha internet caiu e só voltou no dia seguinte.
+
+o código também ficará disponível no meu github:
+https://github.com/DevPhde/Teste-OakTecnolgia

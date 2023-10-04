@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "creationAt": "04/10/2023, 04:32",
+      "name": "Tijolo",
+      "description": "descrição teste 1",
+      "price": 1.99,
+      "isAvailableForSale": true,
+      "id": 1
+    },
+    {
+      "creationAt": "04/10/2023, 04:32",
+      "name": "Água Benta",
+      "description": "Descrição teste 2",
+      "price": 0.19,
+      "isAvailableForSale": true,
+      "id": 2
+    },
+    {
+      "creationAt": "04/10/2023, 04:32",
+      "name": "Coca Cola",
+      "description": "descrição teste 3",
+      "price": 9,
+      "isAvailableForSale": true,
+      "id": 3
+    },
+    {
+      "creationAt": "04/10/2023, 04:33",
+      "name": "Suco",
+      "description": "descrição teste 4",
+      "price": 0.5,
+      "isAvailableForSale": false,
+      "id": 4
+    }
+  ]
+}
